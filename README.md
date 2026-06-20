@@ -1,2 +1,2 @@
 # Lógica de programação na Alura
-Projetos básicos focado em aprender lógica
+Projetos básicos com foco principal em lógica e não em HTML ou CSS, 
